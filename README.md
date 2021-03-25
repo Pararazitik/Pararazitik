@@ -8,3 +8,6 @@ FA works:
 * [:coffee: Java](https://github.com/Pararazitik/Java)
 
 thx [@Shush1k](https://github.com/Shush1k) for this ReadMe
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shush1k" alt="https://github.com/Shush1k" />
+</p>
