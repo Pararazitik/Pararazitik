@@ -9,5 +9,5 @@ FA works:
 
 thx [@Shush1k](https://github.com/Shush1k) for this ReadMe
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shush1k" alt="https://github.com/Shush1k" />
+  <img src="https://komarev.com/ghpvc/?username=Pararazitik" alt="https://github.com/Pararazitik" />
 </p>
