@@ -6,6 +6,7 @@
 FA works:
 * [:snake: Python](https://github.com/Pararazitik/Python)
 * [:coffee: Java](https://github.com/Pararazitik/Java)
+* [:milky_way: Programming Practice](https://github.com/Pararazitik/PythonPractice)
 
 thx [@Shush1k](https://github.com/Shush1k) for this ReadMe
 <p align="left">
