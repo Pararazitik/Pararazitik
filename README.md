@@ -9,7 +9,7 @@ FA works:
 * [:milky_way: Programming Practice](https://github.com/Pararazitik/PythonPractice)
 * [:penguin: Linux](https://github.com/Pararazitik/Linux)
 
-[![Parazitik's github stats](https://github-readme-stats.vercel.app/api?username=Pararazitik&show_icons=true&theme=tokyonight)](https://github.com/Pararazitik)
+[![Parazitik's github stats](https://github-readme-stats.vercel.app/api?username=parazit1k&show_icons=true&theme=tokyonight)](https://github.com/Pararazitik)
 
 thx [@Shush1k](https://github.com/Shush1k) for this ReadMe
 <p align="left">
