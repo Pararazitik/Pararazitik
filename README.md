@@ -9,9 +9,9 @@ FA works:
 * [:milky_way: Programming Practice](https://github.com/Pararazitik/PythonPractice)
 * [:penguin: Linux](https://github.com/Pararazitik/Linux)
 
-<p align="center">
+<div align="center">
   [![Parazitik's github stats](https://github-readme-stats.vercel.app/api?username=parazit1k&show_icons=true&theme=tokyonight)](https://github.com/Pararazitik)
-</p>
+</div>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parazit1k&layout=compact&count_private=true&theme=tokyonight" />
