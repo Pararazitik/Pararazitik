@@ -1,5 +1,5 @@
 
-👋 Hi, I’m [@Parazitik](https://github.com/Pararazitik)
+👋 Hi, I’m [@Parazitik](https://github.com/parazit1k)
 - 👀 I’m interested in code
 - 🌱 I’m currently learning in Financial University
 
